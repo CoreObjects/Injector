@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  Inject.cpp
+  InjectorMFC.cpp
+  InjectorMFCDlg.cpp
+C:\Users\89598\Desktop\InjectorMFC\Injector\InjectorMFCDlg.cpp(196,30): warning C4244: “=”: 从“INT_PTR”转换到“DWORD”，可能丢失数据
+C:\Users\89598\Desktop\InjectorMFC\Injector\InjectorMFCDlg.cpp(272,8): warning C4101: “hHook”: 未引用的局部变量
+C:\Users\89598\Desktop\InjectorMFC\Injector\InjectorMFCDlg.cpp(378,21): warning C4309: “=”: 截断常量值
+C:\Users\89598\Desktop\InjectorMFC\Injector\InjectorMFCDlg.cpp(379,52): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+C:\Users\89598\Desktop\InjectorMFC\Injector\InjectorMFCDlg.cpp(379,52): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+C:\Users\89598\Desktop\InjectorMFC\Injector\InjectorMFCDlg.cpp(380,65): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+C:\Users\89598\Desktop\InjectorMFC\Injector\InjectorMFCDlg.cpp(381,66): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+C:\Users\89598\Desktop\InjectorMFC\Injector\InjectorMFCDlg.cpp(383,58): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+C:\Users\89598\Desktop\InjectorMFC\Injector\InjectorMFCDlg.cpp(383,58): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+C:\Users\89598\Desktop\InjectorMFC\Injector\InjectorMFCDlg.cpp(359,9): warning C4101: “JmpCode”: 未引用的局部变量
+C:\Users\89598\Desktop\InjectorMFC\Injector\InjectorMFCDlg.cpp(446,62): warning C4311: “类型强制转换”: 从“POSITION”到“int”的指针截断
+C:\Users\89598\Desktop\InjectorMFC\Injector\InjectorMFCDlg.cpp(446,62): warning C4302: “类型强制转换”: 从“POSITION”到“int”截断
+C:\Users\89598\Desktop\InjectorMFC\Injector\InjectorMFCDlg.cpp(466,62): warning C4311: “类型强制转换”: 从“POSITION”到“int”的指针截断
+C:\Users\89598\Desktop\InjectorMFC\Injector\InjectorMFCDlg.cpp(466,62): warning C4302: “类型强制转换”: 从“POSITION”到“int”截断
+  ProcessList.cpp
+C:\Users\89598\Desktop\InjectorMFC\Injector\ProcessList.cpp(86,63): warning C4311: “类型强制转换”: 从“POSITION”到“int”的指针截断
+C:\Users\89598\Desktop\InjectorMFC\Injector\ProcessList.cpp(86,63): warning C4302: “类型强制转换”: 从“POSITION”到“int”截断
+C:\Users\89598\Desktop\InjectorMFC\Injector\ProcessList.cpp(96,63): warning C4311: “类型强制转换”: 从“POSITION”到“int”的指针截断
+C:\Users\89598\Desktop\InjectorMFC\Injector\ProcessList.cpp(96,63): warning C4302: “类型强制转换”: 从“POSITION”到“int”截断
+  正在生成代码...
+  InjectorMFC.vcxproj -> C:\Users\89598\Desktop\InjectorMFC\Injector\x64\Debug\InjectorMFC.exe

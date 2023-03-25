@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  Inject.cpp
+  InjectorMFC.cpp
+  InjectorMFCDlg.cpp
+C:\Users\89598\Desktop\InjectorMFC\InjectorMFCDlg.cpp(272,8): warning C4101: “hHook”: 未引用的局部变量
+C:\Users\89598\Desktop\InjectorMFC\InjectorMFCDlg.cpp(378,21): warning C4309: “=”: 截断常量值
+C:\Users\89598\Desktop\InjectorMFC\InjectorMFCDlg.cpp(359,9): warning C4101: “JmpCode”: 未引用的局部变量
+C:\Users\89598\Desktop\InjectorMFC\InjectorMFCDlg.cpp(448,26): warning C4244: “初始化”: 从“__int64”转换到“LONG_PTR”，可能丢失数据
+  ProcessList.cpp
+  正在生成代码...
+  LINK : 没有找到 C:\Users\89598\Desktop\InjectorMFC\Debug\InjectorMFC.exe 或上一个增量链接没有生成它；正在执行完全链接
+  InjectorMFC.vcxproj -> C:\Users\89598\Desktop\InjectorMFC\Debug\InjectorMFC.exe
